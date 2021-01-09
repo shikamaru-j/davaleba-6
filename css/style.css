@@ -1,5 +1,3 @@
-
-
 .heder-wraper {
     background-color: gray;
     padding: 10px;
@@ -17,15 +15,53 @@
     background-color: yellow;
     position: relative;
 }
+
 .child-box {
     height: 100px;
     width: 100px;
     background-color: blue;
     position: absolute;
-    bottom: 0px; left: 0px;
+    bottom: 0px;
+    left: 0px;
 }
+
 .kazi {
     height: 13px;
     width: 2px;
     background-color: red;
+}
+
+.navi {
+    display: inline-block;
+
+}
+
+.clear {
+    clear: both;
+}
+
+.logo {
+    float: left;
+}
+
+.navi-1 {
+    float: left;
+}
+
+.fashion-foto {
+    width: 100%;
+}
+
+.line-1-foto {
+    width: 1341px;
+}
+
+.foto-1 {
+    float: right;
+}
+.text-1  {
+    width: 636px; display: inline-block;
+}
+.text-2 {
+    width: 636px; float: right;
 }
