@@ -1,1 +1,31 @@
-.clear {clear: both;}
+
+
+.heder-wraper {
+    background-color: gray;
+    padding: 10px;
+    color: blue;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 24;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    position: relative;
+}
+.child-box {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0px; left: 0px;
+}
+.kazi {
+    height: 13px;
+    width: 2px;
+    background-color: red;
+}
