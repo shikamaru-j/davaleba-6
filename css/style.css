@@ -190,3 +190,9 @@
     position: absolute; padding-left: 60px; padding-top: 27px; font-size: 17px; color: #FFFFFF
     ;
 }
+.nav-pey {
+    display: inline-block;
+}
+.vertical-4 {
+float: right;
+}
