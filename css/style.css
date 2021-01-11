@@ -181,3 +181,10 @@
 .text-4 {
     color: #FFFFFF; font-size: 47px;
 }
+.kubiki {
+    height: 70px; width: 190px; background-color: #FF7A00; margin: 0 auto; position: relative; margin-bottom: 134px;
+}
+.kubiki-1 {
+    position: absolute; padding-left: 60px; padding-top: 27px; font-size: 17px; color: #FFFFFF
+    ;
+}
